@@ -20,6 +20,7 @@ ehthumbs.db
 Desktop.ini
 
 # Python
+venv/
 __pycache__/
 *.py[cod]
 *.egg-info/
